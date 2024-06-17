@@ -55,3 +55,7 @@ perl minimap2_sam2gff.pl Bidens.isoseq.minimap2.sam > Bidens.isoseq.minimap2.sam
 perl tsv_to_expression.pl Bidens.isoseq.minimap2.sam.tsv.stat Bidens_alba.nucleus.chr.gene.V1.cds.len Bidens.isoseq.minimap2.sam.tsv > Bidens.isoseq.minimap2.sam.tsv.TPM
 
 ```
+
+
+## Reference
+> Wang H#, Xu D#, Jiang F, Wang S, Wang A, Liu H, Lei L, Q W, Fan W*. The genomes of *Dahlia pinnata*, *Cosmos bipinnatus*, and *Bidens alba* in tribe Coreopsideae provide insights into polyploid evolution and inulin biosynthesis. GigaScience. 2024 June 13:giae032. [https://doi.org/10.1093/gigascience/giae032](https://doi.org/10.1093/gigascience/giae032)
