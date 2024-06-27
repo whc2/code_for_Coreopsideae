@@ -1,5 +1,5 @@
 # Introduction
-These scripts were used in the genome project of three plants in the tribe Coreopsideae within the sunflower family (Asteraceae). All the whole-genome sequencing data that support this project have been deposited at China National Genomics Data Center (https://ngdc.cncb.ac.cn) with the Project ID PRJCA017572. The genome assemblies, gene annotations, and other resources are also available at Zenodo (https://doi.org/10.5281/zenodo.8296602).
+These scripts were used in the genome project of three plants in the tribe Coreopsideae within the sunflower family (Asteraceae). All the whole-genome sequencing data that support this project have been deposited at China National Genomics Data Center (https://ngdc.cncb.ac.cn) with the Project ID PRJCA017572. The genome assemblies, gene annotations, and other resources are also available at Zenodo (https://doi.org/10.5281/zenodo.8296602) and [the FTP](http://ftp.agis.org.cn:8888/~fanwei/Coreopsideae_plants/) of AGIS.
 
 # Contigs coverage
 ```
